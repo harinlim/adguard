@@ -1,5 +1,4 @@
 ||bing.com^$document
 ||amazon.com^$document
 ||reddit.com^$document
-
 rule = /reddit/
