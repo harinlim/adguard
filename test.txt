@@ -1,4 +1,4 @@
-bing.com^
-||amazon.com^
-||reddit.com^
+||bing.com^$document
+||amazon.com^$document
+||reddit.com^$document
 ||
