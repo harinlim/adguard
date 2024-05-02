@@ -1,5 +1,4 @@
 google.com^
 ||bing.com^
 ||amazon.com^
-||amazon.com^
 ||reddit.com^
